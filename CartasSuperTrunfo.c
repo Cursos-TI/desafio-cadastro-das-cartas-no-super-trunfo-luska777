@@ -34,7 +34,8 @@ int main(){
     printf("População: %d\n", populacao);
     printf("Pontos turisticos: %d\n", turistico);
 
+    printf("Novo commit\n");
 
-
+    return 0;
 
 }
